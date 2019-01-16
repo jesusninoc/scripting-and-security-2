@@ -1,4 +1,4 @@
-﻿# osquery
+# osquery
 ## Operating Systems 
 ### URL: https://www.jesusninoc.com/2017/10/17/osquery/
 ```PowerShell
